@@ -36,7 +36,7 @@ def main() -> None:
     print(f"Conversion de 1 radian en degres: {degrees} degres, {minutes} minutes et {seconds} secondes")
 
     print(f"Conversion de 100 Celsius en Farenheit: {to_farenheit(100.0)}")
-    print(f"Conversion de 212 Farenheit en Celsius: {to_celsius(212.0)}")
+    print(f"Conversion de 512 Farenheit en Celsius: {to_celsius(512.0)}")
 
 
 if __name__ == '__main__':
