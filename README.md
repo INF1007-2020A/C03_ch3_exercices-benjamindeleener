@@ -14,6 +14,7 @@ Compléter les quelques exercices suivants en modifiant le code de [exercice.py]
 4. Convertir en degrés Celsius une température exprimée au départ en degrés Fahrenheit et vice-versa
 
 ### À compléter
+Bonjour!
 Vous devez compléter les fonctions suivantes du fichier [exercice.py](exercice.py).
 
 ```python
